@@ -1,0 +1,49 @@
+A protostar is a very young star that is still gathering mass from its parent molecular cloud. The protostellar phase is the earliest one in the process of stellar evolution.[1] For a low-mass star (i.e. that of the Sun or lower), it lasts about 500,000 years.[2] The phase begins when a molecular cloud fragment first collapses under the force of self-gravity and an opaque, pressure supported core forms inside the collapsing fragment. It ends when the infalling gas is depleted, leaving a pre-main-sequence star, which contracts to later become a main-sequence star at the onset of hydrogen fusion producing helium.
+
+
+
+
+Contents
+
+1
+History
+2
+Protostellar evolution
+3
+Observed classes of young stars
+4
+Gallery
+5
+See also
+6
+Notes
+7
+References
+8
+External links
+History
+
+The modern picture of protostars, summarized above, was first suggested by Chushiro Hayashi in 1966.[3] In the first models, the size of protostars was greatly overestimated. Subsequent numerical calculations[4][5][6] clarified the issue, and showed that protostars are only modestly larger than main-sequence stars of the same mass. This basic theoretical result has been confirmed by observations, which find that the largest pre-main-sequence stars are also of modest size.
+
+
+Protostellar evolution
+
+
+Infant star CARMA-7 and its jets are located approximately 1400 light-years from Earth within the Serpens South star cluster.[7]
+Main article: Star formation
+Star formation begins in relatively small molecular clouds called dense cores.[8] Each dense core is initially in balance between self-gravity, which tends to compress the object, and both gas pressure and magnetic pressure, which tend to inflate it. As the dense core accrues mass from its larger, surrounding cloud, self-gravity begins to overwhelm pressure, and collapse begins. Theoretical modeling of an idealized spherical cloud initially supported only by gas pressure indicates that the collapse process spreads from the inside toward the outside.[9] Spectroscopic observations of dense cores that do not yet contain stars indicate that contraction indeed occurs. So far, however, the predicted outward spread of the collapse region has not been observed.[10]
+
+
+The gas that collapses toward the center of the dense core first builds up a low-mass protostar, and then a protoplanetary disk orbiting the object. As the collapse continues, an increasing amount of gas impacts the disk rather than the star, a consequence of angular momentum conservation. Exactly how material in the disk spirals inward onto the protostar is not yet understood, despite a great deal of theoretical effort. This problem is illustrative of the larger issue of accretion disk theory, which plays a role in much of astrophysics.
+
+
+
+
+HBC 1 is a young pre-main-sequence star.[11]
+Regardless of the details, the outer surface of a protostar consists at least partially of shocked gas that has fallen from the inner edge of the disk. The surface is thus very different from the relatively quiescent photosphere of a pre-main sequence or main-sequence star. Within its deep interior, the protostar has lower temperature than an ordinary star. At its center, hydrogen-1 is not yet fusing with itself. Theory predicts, however, that the hydrogen isotope deuterium (hydrogen-2) fuses with hydrogen-1, creating helium-3. The heat from this fusion reaction tends to inflate the protostar, and thereby helps determine the size of the youngest observed pre-main-sequence stars.[12]
+
+
+The energy generated from ordinary stars comes from the nuclear fusion occurring at their centers. Protostars also generate energy, but it comes from the radiation liberated at the shocks on its surface and on the surface of its surrounding disk. The radiation thus created must traverse the interstellar dust in the surrounding dense core. The dust absorbs all impinging photons and reradiates them at longer wavelengths. Consequently, a protostar is not detectable at optical wavelengths, and cannot be placed in the Hertzsprung–Russell diagram, unlike the more evolved pre-main-sequence stars.
+
+
+The actual radiation emanating from a protostar is predicted to be in the infrared and millimeter regimes. Point-like sources of such long-wavelength radiation are commonly seen in regions that are obscured by molecular clouds. It is commonly believed that those conventionally labeled as Class 0 or Class I sources are protostars.[13][14] However, there is still no definitive evidence for this identification.
