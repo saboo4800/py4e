@@ -7,20 +7,27 @@ ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
 
+def gimmieSoup(word):
+    #return parsable html
+    html = urllib.request.urlopen('https://jisho.org/search/' + word, context=ctx).read()
+    soup = BeautifulSoup(html, 'html.parser')
+    return soup
+
 word = input("what word do you want the definition to: ")
 #make url with requested word
 #html = urllib.request.urlopen('https://jisho.org/api/v1/search/words?keyword=' + word, context=ctx).read()
-html = urllib.request.urlopen('https://jisho.org/search/' + word, context=ctx).read()
+#html = urllib.request.urlopen('https://jisho.org/search/' + word, context=ctx).read()
 
-
-
-soup = BeautifulSoup(html, 'html.parser')
+soup = gimmieSoup(word)
 count=0
-print(soup)
-print("***000***000***")
-tags = soup('a')
-for tag in tags:
-    print(tag.get('href', None))
+#print(soup)
+#print("***000***000***")
+#tags = soup('a')
+#tags = soup('span')
+#print(soup.prettify())
+
+for tag in soup.find_all(re.compile("^b")):
+    print(tag.name)
 
 """
 for line in fhand:
