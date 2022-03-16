@@ -71,34 +71,39 @@ while True:
             print(json.dumps(js, indent=4, ensure_ascii=False))
             continue
 
+
         print('writing to file')
         #print(json.dumps(js, indent=4, ensure_ascii=False))
-        #fh.write("===========\n")
         iter = 0
+        if not js["data"]:
+            print('js["data"] is empty')
+            fh.write("Sorry, no results\n")
         for item in js["data"]:
             if iter == 3:
                 break
             if containNum(item['slug']):
                 continue
-            slug = item["japanese"][0]["word"]
-            #print('slug found')
+            slug = item["slug"]
+            print('slug found')
             reading = item["japanese"][0]["reading"]
-            #print('reading found')
+            print('reading found')
             fh.write("Word: ")
-            #print('word written')
+            print('word written')
             fh.write(slug+'\n')
-            #print('slug written')
+            print('slug written')
             fh.write("Reading: ")
             fh.write(reading+'\n')
-            #print('reading written')
+            print('reading written')
             fh.write("Definition: ")
-            for item in js["data"][0]["senses"][0]["english_definitions"]:
+            for item in js["data"][iter]["senses"][0]["english_definitions"]:
                 fh.write(item + "|")
                 print('definition written')
             fh.write('\n')
             iter +=1
-            print(iter)
+            #print(iter)
+        fh.write(url + "\n")
         fh.write("===========\n")
+        #skips buffer and writes to file immediately
         fh.flush()
         os.fsync(fh.fileno())
         print("copy a word to your clipboard to continue")
@@ -128,4 +133,8 @@ Traceback (most recent call last):
   File "translationAssistant_MAIN.py", line 79, in <module>
     reading = item["japanese"][0]["reading"]
 KeyError: 'reading'
+
+KeyError: ’word' on なり
+
+
 '''

@@ -33,7 +33,8 @@ def index_in_list(a_list, index):
 ctx = ssl.create_default_context()
 ctx.check_hostname = False
 ctx.verify_mode = ssl.CERT_NONE
-#no idea what that does, pasted from https://stackoverflow.com/questions/14685999/trigger-an-event-when-clipboard-content-changes
+
+#no idea what this does, pasted from https://stackoverflow.com/questions/14685999/trigger-an-event-when-clipboard-content-changes
 sys.path.append(os.path.abspath("SO_site-packages"))
 
 """input file interface selection code here"""
