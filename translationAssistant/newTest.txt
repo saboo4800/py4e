@@ -1,1 +1,50 @@
-====Definition 1
+Word: 開かれる
+Reading: ひらかれる
+Definition: to be open|
+Word: 開かれたシステム
+Reading: ひらかれたシステム
+Definition: to be open|
+===========
+Word: 死傷者
+Reading: ししょうしゃ
+Definition: casualties|the killed and wounded|
+===========
+Word: 掲げる
+Reading: かかげる
+Definition: to put up (a notice, sign, etc.)|to hang out (e.g. a banner)|to fly (e.g. a flag)|to hoist|to raise|to display|
+===========
+Word: 仏
+Reading: ふつ
+Definition: Buddha|Shakyamuni|
+Word: 仏像
+Reading: ぶつぞう
+Definition: Buddha|Shakyamuni|
+Word: 仏語
+Reading: ふつご
+Definition: Buddha|Shakyamuni|
+===========
+Word: 大統領
+Reading: だいとうりょう
+Definition: president (of a nation)|
+Word: 大統領選挙
+Reading: だいとうりょうせんきょ
+Definition: president (of a nation)|
+Word: 大統領選
+Reading: だいとうりょうせん
+Definition: president (of a nation)|
+===========
+Word: 亡命
+Reading: ぼうめい
+Definition: fleeing from one's country|seeking asylum|defection|emigration (for political reasons)|(going into) exile|becoming a (political) refugee|
+Word: 亡命者
+Reading: ぼうめいしゃ
+Definition: fleeing from one's country|seeking asylum|defection|emigration (for political reasons)|(going into) exile|becoming a (political) refugee|
+Word: 亡命政権
+Reading: ぼうめいせいけん
+Definition: fleeing from one's country|seeking asylum|defection|emigration (for political reasons)|(going into) exile|becoming a (political) refugee|
+===========
+Word: 訴える
+Reading: うったえる
+Definition: to raise|to bring to (someone's attention)|
+===========
+===========

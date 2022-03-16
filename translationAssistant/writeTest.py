@@ -75,8 +75,8 @@ while True:
             #writes to previously opened txt file
             #lst = []
             print("====Definition 1")
-            print("====Definition 1",js["data"][0]["japanese"],js["data"][0]["senses"][0]["english_definitions"])
-            print("====Definition 2",js["data"][1]["japanese"],js["data"][1]["senses"][0]["english_definitions"])
+            print("====Definition 1",js["data"][0]["japanese"])#,js["data"][0]["senses"][0]["english_definitions"])
+            #print("====Definition 2",js["data"][1]["japanese"],js["data"][1]["senses"][0]["english_definitions"])
 
             #for result in (js["data"][0]["japanese"]["word"]):
             #    print(result)
@@ -92,8 +92,10 @@ while True:
             continue
         else:
             print("Retrieving word - 1")
+            print("====Definition 1",js["data"][0]["japanese"])#,js["data"][0]["senses"][0]["english_definitions"])
+            '''
             fh.writelines("====Definition 1",js["data"][0]["japanese"],js["data"][0]["senses"][0]["english_definitions"])
-            fh.write(str(url))
+            fh.write(str(url))'''
             continue
 
     else:
