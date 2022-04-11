@@ -1,0 +1,81 @@
+Word: 責任著者
+Reading: せきにんちょしゃ
+Definition: corresponding author|
+https://jisho.org/api/v1/search/words?keyword=%E8%B2%AC%E4%BB%BB%E8%91%97%E8%80%85
+===========
+Word: 撤回
+Reading: てっかい
+Definition: withdrawal|retraction|revocation|repeal|
+https://jisho.org/api/v1/search/words?keyword=%E6%92%A4%E5%9B%9E
+===========
+Word: 研究所
+Reading: けんきゅうじょ
+Definition: research establishment|research institute|laboratory|
+Word: 研究所報
+Reading: けんきゅうしょほう
+Definition: research institute bulletin|
+https://jisho.org/api/v1/search/words?keyword=%E7%A0%94%E7%A9%B6%E6%89%80
+===========
+Word: 合
+Reading: ごう
+Definition: gō|traditional unit of volume, approx. 0.1804 litres|
+Word: 合い
+Reading: あい
+Definition: between-season wear|spring and autumn clothing|spring and fall clothing|
+Word: 合図
+Reading: あいず
+Definition: sign|signal|cue|
+https://jisho.org/api/v1/search/words?keyword=%E5%90%88%E6%88%90%E5%AE%9F%E9%A8%93
+===========
+Sorry, no results
+https://jisho.org/api/v1/search/words?keyword=%E5%8D%92%E6%A5%AD%E6%99%82
+===========
+Word: 卒業
+Reading: そつぎょう
+Definition: graduation|completion (of a course)|
+Word: 卒業生
+Reading: そつぎょうせい
+Definition: graduate|alumnus|
+Word: 卒業後
+Reading: そつぎょうご
+Definition: after graduation|
+https://jisho.org/api/v1/search/words?keyword=%E5%8D%92%E6%A5%AD
+===========
+Word: 実験
+Reading: じっけん
+Definition: experiment|experimentation|
+Word: 実験室
+Reading: じっけんしつ
+Definition: laboratory|
+Word: 実験結果
+Reading: じっけんけっか
+Definition: experimental results|
+https://jisho.org/api/v1/search/words?keyword=%E5%AE%9F%E9%A8%93
+===========
+Word: 実物
+Reading: じつぶつ
+Definition: real thing|original|actual|
+Word: 実物大
+Reading: じつぶつだい
+Definition: ornamental plant used primarily for the visual effect of its fruit|
+Word: 実物大模型
+Reading: じつぶつだいもけい
+Definition: actual size|
+https://jisho.org/api/v1/search/words?keyword=%E5%AE%9F%E7%89%A9
+===========
+Sorry, no results
+https://jisho.org/api/v1/search/words?keyword=%E2%80%A6
+===========
+Word: 〜
+Reading: にょろ
+Definition: tilde|wave dash|
+https://jisho.org/api/v1/search/words?keyword=%EF%BD%9E
+===========
+Word: イコール
+Reading: イコール
+Definition: character (esp. kanji)|letter|written text|
+https://jisho.org/api/v1/search/words?keyword=%3D
+===========
+Sorry, no results
+https://jisho.org/api/v1/search/words?keyword=https%3A%2F%2Fgithub.com%2Fsaboo4800%2Fpy4e
+===========
