@@ -1,0 +1,183 @@
+ab Abkhazian language
+aa Afar language
+af Afrikaans language
+ak Akan language
+sq Albanian language
+am Amharic language
+ar Arabic language
+an Aragonese language
+hy Armenian language
+as Assamese language
+av Avar language
+ae Avestan language
+ay Aymara language
+az Azerbaijani language
+bm Bambara language
+ba Bashkir language
+eu Basque language
+be Belarusian language
+bn Bengali language
+bi Bislama language
+bs Bosnian language
+br Breton language
+bg Bulgarian language
+my Burmese language
+ca Catalan language
+ch Chamorro language
+ce Chechen language
+ny Chichewa language
+zh Chinese language
+cu Church Slavonic language
+cv Chuvash language
+kw Cornish language
+co Corsican language
+cr Cree language
+hr Croatian language
+cs Czech language
+da Danish language
+dv Dhivehi language
+nl Dutch language
+dz Dzongkha language
+en English language
+eo Esperanto
+et Estonian language
+ee Ewe language
+fo Faroese language
+fj Fijian language
+fi Finnish language
+fr French language
+fy West Frisian language
+ff Fulah language
+gd Scottish Gaelic
+gl Galician language
+lg Ganda language
+ka Georgian language
+de German language
+el Greek language
+kl Greenlandic language
+gn Guarani language
+gu Gujarati language
+ht Haitian Creole language
+ha Hausa language
+he Hebrew language
+hz Herero language
+hi Hindi
+ho Hiri Motu language
+hu Hungarian language
+is Icelandic language
+io Ido
+ig Igbo language
+id Indonesian language
+ia Interlingua
+ie Interlingue
+iu Inuktitut
+ik Inupiaq language
+ga Irish language
+it Italian language
+ja Japanese language
+jv Javanese language
+kn Kannada language
+kr Kanuri language
+ks Kashmiri language
+kk Kazakh language
+km Central Khmer language
+ki Gikuyu language
+rw Kinyarwanda
+ky Kirghiz language
+kv Komi language
+kg Kongo language
+ko Korean language
+kj Kuanyama language
+ku Kurdish language
+lo Lao language
+la Latin
+lv Latvian language
+li Limburgan language
+ln Lingala language
+lt Lithuanian language
+lu Luba-Katanga language
+lb Luxembourgish language
+mk Macedonian language
+mg Malagasy language
+ms Malay language
+ml Malayalam language
+mt Maltese language
+gv Manx language
+mi Māori language
+mr Marathi language
+mh Marshallese language
+mn Mongolian language
+na Nauru language
+nv Navajo language
+nd North Ndebele language
+nr South Ndebele language
+ng Ndonga
+ne Nepali language
+no Norwegian language
+nb Bokmål
+nn Nynorsk
+ii Sichuan Yi language
+oc Occitan language
+oj Ojibwa language
+or Oriya language
+om Oromo language
+os Ossetian language
+pi Pali language
+ps Pashto language
+fa Persian language
+pl Polish language
+pt Portuguese language
+pa Punjabi language
+qu Quechua language
+ro Romanian language
+rm Romansh language
+rn Rundi language
+ru Russian language
+se Northern Sami
+sm Samoan language
+sg Sango language
+sa Sanskrit
+sc Sardinian language
+sr Serbian language
+sn Shona language
+sd Sindhi language
+si Sinhala language
+sk Slovak language
+sl Slovene language
+so Somali language
+st Sotho language
+es Spanish language
+su Sundanese language
+sw Swahili language
+ss Swati language
+sv Swedish language
+tl Tagalog language
+ty Tahitian language
+tg Tajik language
+ta Tamil language
+tt Tatar language
+te Telugu language
+th Thai language
+bo Standard Tibetan
+ti Tigrinya language
+to Tongan language
+ts Tsonga language
+tn Tswana language
+tr Turkish language
+tk Turkmen language
+tw Twi
+ug Uighur language
+uk Ukrainian language
+ur Urdu
+uz Uzbek language
+ve Venda language
+vi Vietnamese language
+vo Volapük
+wa Walloon language
+cy Welsh language
+wo Wolof language
+xh Xhosa language
+yi Yiddish language
+yo Yoruba language
+za Zhuang language
+zu Zulu language

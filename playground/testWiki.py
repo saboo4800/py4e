@@ -5,27 +5,48 @@
     MediaWiki API Demos
     Demo of `Langlinks` module: Get a list of language links that a given page has
     MIT License
+
+    S = requests.Session()
+
+    URL = "https://en.wikipedia.org/w/api.php"
+
+    PARAMS = {
+        "action": "query",
+        "titles": name,
+        "prop": "langlinks",
+        #"prop": "100",
+        "format": "json"
+    }
+
+
+
+    R = S.get(url=URL, params=PARAMS)
+    DATA = R.json()
+
+    print(json.dumps(DATA, indent=4, ensure_ascii=False))
+
+
+    #print(DATA)
+
 """
 
 import requests
 import json
+import sqlite3
+import wikipediaapi
 
-S = requests.Session()
+def print_langlinks(page):
+    langlinks = page.langlinks
+    for k in sorted(langlinks.keys()):
+        #v = langlinks[k]
+        print("%s" % (k))
+    print(count)
 
-URL = "https://en.wikipedia.org/w/api.php"
+#conn = sqlite3.connect('testWiki.sqlite')
+#cur = conn.cursor()
+name = input("What page do you want the languages of? ")
 
-PARAMS = {
-    "action": "query",
-    "titles": "Mister Rogers' Neighborhood",
-    #"prop": "langlinks",
-    "prop": "100",
-    "format": "json"
-}
+wiki = wikipediaapi.Wikipedia('en')
+page = wiki.page(name)
 
-R = S.get(url=URL, params=PARAMS)
-DATA = R.json()
-
-print(json.dumps(DATA, indent=4, ensure_ascii=False))
-
-
-#print(DATA)
+print_langlinks(page)
